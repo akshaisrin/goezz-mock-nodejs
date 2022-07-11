@@ -2,6 +2,9 @@
 # Test NodeJS Server
 This web server is for testing client to NodeJS connection.
 
+Alternative to running locally, this server is hosted on Heroku and can be accessed at the following URL:
+https://goezz-server-test.herokuapp.com/
+
 ## Downloading and Installing dependencies for the server
 [NPM](https://www.npmjs.com/) is required to run this server.
 
